@@ -106,7 +106,7 @@ padding: 18px;
   text-align: center;
 }
 
-/* Special layout for the landscape poster */
+/*LANDSCAPE*/
 .gallery .landscape {
   grid-column: 1 / -1;
   max-width: 850px;
@@ -123,7 +123,7 @@ padding: 18px;
 color: rgb(244, 246, 241);
 }
 div {
-  border: 2px solid rgb(243, 245, 244);
+  border: 2px dotted rgb(243, 245, 244);
   margin-bottom: 20px;
   padding: 20px;
   box-sizing: border-box;
